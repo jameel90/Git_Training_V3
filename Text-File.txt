@@ -1,6 +1,1 @@
-This is Text File
-Hello
-Hi
-How
-ARe 
-You
+Finally going to push git file.
